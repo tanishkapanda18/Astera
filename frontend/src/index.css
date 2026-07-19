@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  /* Backgrounds */
+  --background: #080e16;
+  --surface: #141825;
+  --surface-elevated: #1c2030;
+
+  /* Brand */
+  --primary: #6c5ce7;
+  --primary-soft: #4c3f7a;
+
+  /* Accent */
+  --amber: #f6b24a;
+  --emerald: #22c55e;
+  --coral: #ef4444;
+
+  /* Text */
+  --text-primary: #f5f7fa;
+  --text-secondary: #a2a8b3;
+}
